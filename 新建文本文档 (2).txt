@@ -1,7 +1,7 @@
-<HTML>
+﻿<HTML>
 <HEAD>
 <SCRIPT type="text/javascript">
-alert("����һ���򵥵Ľű�����")
+alert("这是一个简单的脚本程序")
 </SCRIPT>
 </HEAD>
 </HTML>

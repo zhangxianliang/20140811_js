@@ -1,9 +1,9 @@
-<html>
+ï»¿<html>
 <head>
 <title></title>
 <SCRIPT TYPE="text/JavaScript">
 <!--
-//ÔÚ´Ë²åÈëJavaScript ½Å±¾
+//åœ¨æ­¤æ’å…¥JavaScript è„šæœ¬
 //-->
 </SCRIPT>
 </head>
