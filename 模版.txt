@@ -3,7 +3,7 @@
 <title></title>
 <SCRIPT TYPE="text/JavaScript">
 <!--
-//在此插入JavaScript 脚本
+// 在此插入JavaScript 脚本
 //-->
 </SCRIPT>
 </head>
