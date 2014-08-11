@@ -1,0 +1,20 @@
+﻿<html>
+<head>
+<title>通过用户事件执行脚本</title>
+<script type="text/JavaScript">
+<!--
+function shownews(){
+alert("单击按钮时执行脚本");
+//测试一下！！！！
+}
+// -->
+</script>
+</head>
+<body>
+<b>通过用户事件执行脚本</b>
+<form method="send">
+<input type="Button" name="BUTTON1" value="单击"
+onclick="shownews()">
+</form>
+</body>
+</html>

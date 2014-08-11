@@ -1,0 +1,12 @@
+<html>
+<head>
+<title></title>
+<SCRIPT TYPE="text/JavaScript">
+<!--
+//在此插入JavaScript 脚本
+//-->
+</SCRIPT>
+</head>
+<body>
+</body>
+</html>

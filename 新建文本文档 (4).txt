@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>立即执行</title>
+<script type="text/JavaScript">
+
+<!--
+alert("立即执行了脚本"); //首先会显示的消息内容
+// -->
+</script>
+</head>
+<body>
+<b>浏览器在解释HTML 文档时执行了JavaScript 脚本
+</b>
+</body>
+</html>
